@@ -20,7 +20,7 @@ I transform ideas into smooth, fast, visually beautiful interfaces. :contentRefe
 
 ---
 
-# 🧊 Featured Projects (Glass Cards Style)
+# 🧊 Featured Projects
 
 ### 🚌 **Idukki Bus Timing App**  
 *Next.js + React.js + Supabase + PostgreSQL*  
@@ -47,7 +47,7 @@ I transform ideas into smooth, fast, visually beautiful interfaces. :contentRefe
 
 ---
 
-# 📊 GitHub Stats (Violet Transparent Theme)
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darismathew92&show_icons=true&theme=transparent&hide_border=true&title_color=BB86FC&icon_color=BB86FC" />
@@ -63,7 +63,7 @@ I transform ideas into smooth, fast, visually beautiful interfaces. :contentRefe
 
 ---
 
-# 🧊 Quick Info (Violet Frost)
+# 🧊 Quick Info
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
