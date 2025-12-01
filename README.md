@@ -63,16 +63,12 @@ I am a **Front-end Developer** passionate about creating sleek, high-performance
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darismathew92&show_icons=true&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC&hide=contribs" />
-</p>
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=darismathew92&theme=dark&hide_border=true&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darismathew92&layout=compact&theme=dark&hide_border=true&title_color=BB86FC" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darismathew92&show_icons=true&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC&hide=contribs" alt="GitHub Stats" />
+  
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darismathew92&layout=compact&theme=dark&hide_border=true&title_color=BB86FC" alt="Top Languages" />
 </p>
 
 ---
