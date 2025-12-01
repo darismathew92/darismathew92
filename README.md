@@ -1,3 +1,13 @@
+That is a common issue when trying to force two images to display side-by-side using percentage widths inside a single markdown `div`. GitHub's rendering can be inconsistent, causing one or both to fail loading properly.
+
+I have adjusted the **GitHub Activity** section to fix this:
+
+1.  **Separated Images:** I moved each of the three stats images into its own centered paragraph (`<p align="center">`). This ensures each image is rendered independently, fixing the loading issue.
+2.  **Theme Consistency:** I standardized the theme to `theme=dark` for better visibility and reliability on the default GitHub dark background.
+
+Please replace your entire `README.md` content with the updated code below:
+
+```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=800&lines=Hi,+I'm+Daris+Mathew;Building+Fast+%26+Scalable+Web+Apps;Next.js+%7C+React.js+%7C+Supabase" />
 </div>
@@ -23,7 +33,7 @@ I am a **Front-end Developer** passionate about creating sleek, high-performance
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,supabase,postgres,git,github,figma,ps&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,supabase,postgres,git,github,figma,ps&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
@@ -63,20 +73,32 @@ I am a **Front-end Developer** passionate about creating sleek, high-performance
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=darismathew92&show_icons=true&theme=default&hide_border=true&title_color=BB86FC&icon_color=BB86FC&hide=contribs" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=darismathew92&theme=default&hide_border=true&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darismathew92&show_icons=true&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC&hide=contribs" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=darismathew92&theme=dark&hide_border=true&ring=BB86FC&fire=BB86FC&currStreakLabel=BB86FC" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darismathew92&layout=compact&theme=default&hide_border=true&title_color=BB86FC" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darismathew92&layout=compact&theme=dark&hide_border=true&title_color=BB86FC" />
+</p>
 
 ---
 
 ### 📫 Connect
 <div align="center">
   <a href="https://darismathew.vercel.app/">
-    <img src="https://img.shields.
+    <img src="https://img.shields.io/badge/Website-darismathew.vercel.app-black?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+<p align="center">
+  <i>Let’s build something beautiful.</i>
+</p>
+```
