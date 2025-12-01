@@ -9,7 +9,7 @@
 
 I’m a **Front-end Developer** focused on building **sleek, high-performance** web applications using  
 **Next.js, React.js, Supabase, and PostgreSQL**.  
-I transform ideas into smooth, fast, visually beautiful interfaces. :contentReference[oaicite:1]{index=1}  
+I transform ideas into smooth, fast, visually beautiful interfaces.
 
 ---
 
